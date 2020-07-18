@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility2", "Utility2\Utility2.csproj", "{3B210CD7-C508-499B-8579-ED74245D44ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Distributor", "Distributor\Distributor.vdproj", "{5B302213-68FD-49D3-A89F-40EB1C68E59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B210CD7-C508-499B-8579-ED74245D44ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B210CD7-C508-499B-8579-ED74245D44ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B210CD7-C508-499B-8579-ED74245D44ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B210CD7-C508-499B-8579-ED74245D44ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B302213-68FD-49D3-A89F-40EB1C68E59F}.Debug|Any CPU.ActiveCfg = Debug
+		{5B302213-68FD-49D3-A89F-40EB1C68E59F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
